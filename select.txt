@@ -1,0 +1,65 @@
+graph {
+4 [shape = box]
+5 [shape =box]
+6 [shape =box]
+7 [shape =box]
+8 [shape =box]
+
+4[color=blue]
+5 [color=blue]
+6 [color=blue]
+7 [color=blue]
+8 [color=blue]
+
+4--5 [label="4"];
+4--6 [label="4"];
+4--9 [label="4"];
+4--36 [label="4"];
+4--44 [label="4"];
+4--48 [label="4"];
+4--58 [label="4"];
+4--106 [label="4"];
+4--1032 [label="4"];
+4--1033 [label="4"];
+5--6 [label="5"];
+5--44 [label="5"];
+5--46 [label="5"];
+5--47 [label="5"];
+5--48 [label="5"];
+5--49 [label="5"];
+5--50 [label="5"];
+5--51 [label="5"];
+5--52 [label="5"];
+5--53 [label="5"];
+6--5 [label="6"];
+6--9 [label="6"];
+6--46 [label="6"];
+6--47 [label="6"];
+6--48 [label="6"];
+6--54 [label="6"];
+6--55 [label="6"];
+6--56 [label="6"];
+6--57 [label="6"];
+6--58 [label="6"];
+7--5 [label="7"];
+7--6 [label="7"];
+7--9 [label="7"];
+7--46 [label="7"];
+7--47 [label="7"];
+7--54 [label="7"];
+7--58 [label="7"];
+7--108 [label="7"];
+7--1521 [label="7"];
+7--1522 [label="7"];
+8--4 [label="8"];
+8--5 [label="8"];
+8--36 [label="8"];
+8--44 [label="8"];
+8--51 [label="8"];
+8--59 [label="8"];
+8--60 [label="8"];
+8--61 [label="8"];
+8--62 [label="8"];
+8--63 [label="8"];
+
+}
